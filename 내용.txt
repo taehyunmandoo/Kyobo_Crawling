@@ -1,0 +1,21 @@
+
+1. 교보 문고 사이트에서 100권의 책 정보 가져오기
+https://search.kyobobook.co.kr/search?keyword=python&gbCode=TOT&target=total 
+책제목, 가격, 저자, 출판사, 출판 연도 
+
+2. 가져온 데이터를 정리하여 csv파일로 저장 
+
+3. 위내용을 가지고 kyobobook 데이터베이스 생성 
+
+4. 위 내용으로 테이블 생성 
+
+5. csv파일을 내용을 데이터베이스에 저장 
+
+6. streamlit을 이용하여 웹페이지 작성하고 자유롭고 (CRUD)기능및 
+추가 기능 구현 
+
+제출파일 : 작성한 소스파일 제출
+이름.zip   
+8월 24일 오후 11시 59분까지 제출
+skypwk@naver.com 
+
